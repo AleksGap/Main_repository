@@ -1,0 +1,10 @@
+ID - number bug 
+Summary - короткое описание проблеммы
+Environment - Окружение
+Steps to reproduse - шаги по которым можно воспроизвезти ошибку
+Actual result - фактический результат
+Expected result - ожидаемый результат
+Severity - Серьезность бага (Blocker,Critical,Major,Minor,trivial)
+Priority - Приоритет (high, medium, low)
+Attachment - прикрепленные файлы
+Autor - Автор бага
